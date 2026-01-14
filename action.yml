@@ -1,5 +1,5 @@
 name: 'Access server behing Cloudflared'
-description: 'GitHub Action for establishing a Cloudflare Access TCP tunnel using cloudflared'
+description: 'Establish secure Cloudflare Access TCP tunnel using cloudflared'
 author: 'acosoft'
 runs:
   using: 'composite'
