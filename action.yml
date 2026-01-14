@@ -1,4 +1,4 @@
-name: 'Access server behing Cloudflared'
+name: 'Access server behind Cloudflared'
 description: 'Establish secure Cloudflare Access TCP tunnel using cloudflared'
 author: 'acosoft'
 runs:
